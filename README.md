@@ -1,6 +1,6 @@
 ## Laboratory work V
 
-[![Coverage Status](https://coveralls.io/repos/github/BridgeInSky/lab05_home/badge.svg?branch=main)](https://coveralls.io/github/ваш-юзернейм/ваш-репозиторий)
+[![Coverage Status](https://coveralls.io/repos/github/BridgeInSky/lab05_home/badge.svg?branch=main)](https://coveralls.io/github/BridgeInSky/lab05_home)
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 

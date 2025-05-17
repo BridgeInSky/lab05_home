@@ -1,5 +1,7 @@
 ## Laboratory work V
 
+[![Coverage Status](https://coveralls.io/repos/github/BridgeInSky/lab05_home/badge.svg?branch=main)](https://coveralls.io/github/ваш-юзернейм/ваш-репозиторий)
+
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
 ```sh

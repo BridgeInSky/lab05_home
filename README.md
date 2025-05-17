@@ -166,7 +166,7 @@ TEST(Transaction, negative) {
 bool success = Debit(to, sum + fee_);
 bool success = Debit(from, sum + fee_);
 ```
-Добавим папre coverage, а в ней lcov.info файл
+Добавим папку coverage, а в ней lcov.info файл
 ```
 touch coverage/lcov.info
 ```
